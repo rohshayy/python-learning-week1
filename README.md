@@ -1,2 +1,11 @@
 # python-learning-week1
-My Python learning journey and mini projects
+
+Python Learning Journey
+
+I am a Mathematics lecturer transitioning into AI and Machine Learning.
+
+Week 1 projects:
+- Calculator
+- Student Marks Calculator
+- Lists practice
+- Functions practice
