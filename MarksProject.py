@@ -7,3 +7,14 @@ def percentage(total, obtained):
 
 result = percentage(total_marks, obtained_marks)
 print(result)
+
+if percentage(total_marks, obtained_marks) >= 80:
+    grade = "A"
+elif percentage(total_marks, obtained_marks) >= 70:
+    grade = "B"
+elif percentage(total_marks, obtained_marks) >= 60:
+    grade = "C"
+else:
+    grade = "D"
+
+print(grade)
